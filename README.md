@@ -1,2 +1,14 @@
-# spring-boot-legacy
-Spring Boot Legacy Archetype
+# Spring Boot Legacy Proyect
+Spring Boot project with legacy dependencies version.
+
+## Dependencies
+
+* Spring Boot 2.7.18
+* Gradle 7.2
+* Java 11
+
+## How to run
+* ./gradlew clean build
+* ./gradlew bootRun
+
+
