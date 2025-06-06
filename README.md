@@ -8,7 +8,11 @@ Spring Boot project with legacy dependencies version.
 * Java 11
 
 ## How to run
-* ./gradlew clean build
-* ./gradlew bootRun
-
+On the root folder run:
+* Linux:
+    * ./gradlew clean build
+    * ./gradlew bootRun
+* Windows:
+    * gradlew.bat clean build
+    * gradlew.bat bootRun
 
